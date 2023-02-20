@@ -1,6 +1,6 @@
 # Power-BI
 I am pleased to share that I have acquired "Microsoft Power BI Desktop for Business Intelligence" certification. The Program Included 11 hours of practical learning with an end-to-end business intelligence solution, an Adventure works dashboard with AI Visuals to track KPIs (Revenue, Sales, Profit, Return) and compare regional performance, product level trends, and forecast. This was a challenging and rewarding course that helped me improve my BA skills in business process analysis, use cases, and data modeling.
-Raw data- https://drive.google.com/drive/folders/1VQEJUGM-9Rl3w8s_j_XmJ6ZuDLVtlsdY?usp=sharing
+!Raw data- https://drive.google.com/drive/folders/1VQEJUGM-9Rl3w8s_j_XmJ6ZuDLVtlsdY?usp=sharing
 
 ![1670772802070](https://user-images.githubusercontent.com/115406466/220038693-41d15f63-7331-4834-add7-844fbd3f031c.jpg)
 ![1670772801954](https://user-images.githubusercontent.com/115406466/220038655-4536cd41-8ebe-4701-a0e0-796f2d06bc3b.jpg)
